@@ -17,7 +17,7 @@ public class AddNote extends HttpServlet{
 		String password=req.getParameter("password");
 		String title=req.getParameter("title");
 		String note=req.getParameter("note");
-		System.out.println("-----------");
+		
 		System.out.println(userName);
 		System.out.println(password);
 		System.out.println(title);
