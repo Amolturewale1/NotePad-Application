@@ -1,3 +1,5 @@
+
+//this are the MySQL Queries 
 use notedb;
 create table user_info 
 (
